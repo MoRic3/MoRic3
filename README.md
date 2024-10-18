@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoRic3
 - 👀 I’m interested in mixed-integer programming, global and multi-objective optimization as well as its applications
-- 🌱 I’m currently learning to code at all
+- 🌱 I’m currently learning to code (tune my coding) python
 - 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me moritz.link@uni-konstanz.de / moritzlink8@gmail.com
 - 😄 Pronouns: he/him
